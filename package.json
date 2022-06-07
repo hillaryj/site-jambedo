@@ -1,7 +1,7 @@
 {
-  "name": "windty",
+  "name": "jambedo",
   "version": "1.0.0",
-  "description": "Simple 11ty template with tailwind",
+  "description": "Jambedo is a music-based melancholic trance in which you become completely absorbed in vivid sensory details",
   "scripts": {
     "start": "run-p start:*",
     "start:eleventy": "eleventy --serve",
@@ -20,11 +20,11 @@
     "11ty",
     "tailwind"
   ],
-  "author": "Cam MacFarland",
+  "author": "Hillary Jeffrey",
   "license": "Unlicense",
-  "homepage": "https://github.com/distantcam/windty#readme",
+  "homepage": "https://www.jambedo.com",
   "bugs": {
-    "url": "https://github.com/distantcam/windty/issues"
+    "url": "https://github.com/hillaryj/site-jambedo/issues"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
