@@ -3,3 +3,16 @@
 @tailwind components;
 
 @tailwind utilities;
+
+@layer components {
+  .event-table {
+    border-spacing: theme("padding.3");
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+  td, th {
+    vertical-align: top;
+    padding-left:  0.75rem;
+    padding-right: 0.75rem;
+  }
+}
